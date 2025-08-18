@@ -66,7 +66,6 @@ npm install
 npm run dev
 ```
 
----
 
 ## 🚀 Uso  
 Após rodar o projeto:  
@@ -75,7 +74,6 @@ Após rodar o projeto:
 
 ---
 
----
 
 ## 📄 Licença  
 

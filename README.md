@@ -2,14 +2,11 @@
 
 <p align="center">
   <b>Sistema completo de gerenciamento para estúdio de Pilates</b><br>
-  Projeto de Extensão Universitária — SPTECH
+  Projeto de Extensão — São Paulo Tech School
 </p>
 
 <p align="center">
-  <a href="https://github.com/One-Pilates/LandingPage"><img src="https://img.shields.io/badge/Landing%20Page-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Landing Page" /></a>
-  <a href="https://github.com/One-Pilates/Frontend"><img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Frontend" /></a>
-  <a href="https://github.com/One-Pilates/Backend"><img src="https://img.shields.io/badge/Backend-Java%20%2F%20Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Backend" /></a>
-  <a href="https://github.com/One-Pilates/Database"><img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Database" /></a>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,sass,java,spring,mysql,rabbitmq,maven" alt="Stack do projeto" />
 </p>
 
 ---

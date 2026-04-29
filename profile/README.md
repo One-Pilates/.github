@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,sass,java,spring,mysql,rabbitmq,maven" alt="Stack do projeto" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,sass,java,spring,mysql,rabbitmq,maven,terraform" alt="Stack do projeto" />
 </p>
 
 ---
